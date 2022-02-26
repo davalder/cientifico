@@ -21,6 +21,8 @@
     "webpack-dev-server": "^4.7.4"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.16.11"
+    "@babel/preset-env": "^7.16.11",
+    "core-js": "^3.21.1",
+    "regenerator-runtime": "^0.13.9"
   }
 }
